@@ -1,0 +1,1 @@
+This LiveCD will include the Android SDK, and all the Android developpment tools.
